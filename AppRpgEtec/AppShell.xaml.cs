@@ -17,6 +17,7 @@ namespace AppRpgEtec
             Routing.RegisterRoute("cadPersonagemView", typeof(CadastroPersonagemView));
 
             Routing.RegisterRoute("cadArmaView", typeof(CadastroArmaView));
+
         }
     }
 }
